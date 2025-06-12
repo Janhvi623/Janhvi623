@@ -4,7 +4,7 @@
 <h1 align="center">Hi👋, I'm Janhvi Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3> 
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="300" src="[https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif](https://cdnl.iconscout.com/lottie/free/preview/free-working-chart-animation-download-in-lottie-json-gif-static-svg-file-formats--analytics-logo-finance-document-report-business-marketing-pack-animations-6838875.mp4)">
 
 ### About Me
 
